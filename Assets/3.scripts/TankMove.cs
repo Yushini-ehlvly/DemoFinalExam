@@ -20,3 +20,5 @@ public class TankMove : MonoBehaviour {
 		transform.Rotate(0,rSpeed * h,0);//根據垂直軸向按鍵來旋轉
 	}
 }
+
+1qaz2wsx3edc
